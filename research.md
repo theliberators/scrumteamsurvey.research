@@ -47,8 +47,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - Structured interviews of informants from Alpha* on the benefits, risks and challenges of dynamic teaming approaches compared to more traditional ones.
 - Structured interviews of informants from Alpha* on how organizations support, or can support, dynamic teaming approaches to offset some of the disadvantages compared to long-lived, stable teams
 - Structured interviews of informants from Alpha* on how the metateam interacts with subteams
-- A quantitative survey study to track how teams perform based on their longevity and their use of dynamic teaming at Alpha and at other organizations
-- At Alpha*, the questionnaire will be taken at the start of a newly formed subteam and at the end of each "iteration".
+- A quantitative survey study to track how teams perform based on their longevity and their use of dynamic teaming at Alpha*. The questionnaire will be taken at the start of a newly formed subteam and at the end of each "iteration".
 
 *: While Alpha has presented itself as the first collaborator in this study, additional companies may join.
 
