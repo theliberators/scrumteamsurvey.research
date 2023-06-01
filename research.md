@@ -51,15 +51,28 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - Quantitative study:
   - Survey study to track how teams perform based on their longevity and their use of dynamic teaming at Alpha*. The questionnaire will be taken at the start of a newly formed subteam and at the end of each "iteration".
 
-
 *: While Alpha has presented itself as the first collaborator in this study, additional companies may join.
 
 # Data Analysis
 
+- Qualitiative study:
+  - To be determined
+- Quantitative study:
+  - Structural Equation Modelling to test if the model fits the data
+  - Moderator analyses in SEM to test for 
+  - Multigroup comparison to identify significant differences between groups (
 
 # Ethical Considerations
 
+- The interviews will be performed by a researcher that is not affiliated with Alpha*. The identities of informants will only be known to the researcher. In any further analyses or publications, informants will simply be referenced by their role and a number (e.g. PM1, DEV2, SM5).
+- Data collection for the surveys 
+
+# Potential biases & confounders
+
+- 
+
 # Timeline
 
+- Tool: Scrum Team Survey
 - Interview timeline
--
+- Protocol
