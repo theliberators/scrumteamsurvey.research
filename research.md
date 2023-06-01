@@ -39,7 +39,7 @@ H3: Subteams formed from a meta team (i.e. dynamic teaming) are effective more q
 H4: The carryover effect of dynamic teaming is moderated by the degree to which metateams and subteams are supported in their use of dynamic teaming and their autonomy
 H5: Something about the metateam-subteam effects; we assume that social needs are met in the metateam, whereas task cohesion is met in the teams
 
-![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/876bc63a-f490-4251-aab5-3eb3278af10e)
+![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/fb3e62ff-d9df-4497-8e68-dd160615a437)
 
 
 
