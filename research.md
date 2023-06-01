@@ -31,21 +31,22 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - RQ1: How do short-lived teams compare to more long-lived teams in terms of their effectiveness? How does their effectiveness change over time?
 - RQ2: What kind of support systems are needed in environments that use dynamic teaming approaches to maintain team effectiveness?
 
-# Hypotheses (could be multiple studies)
+# Hypotheses
 
-H1: Psychological safety, social cohesion, team goal commitment, social identification, and (low) relational conflict contribute to positive team outcomes
-H2: The longer a team works together, the higher their psychological safety, social cohesion, team goal commitment, and social identification, and the lower their relational conflict
-H3: Subteams formed from a meta team (i.e. dynamic teaming) are effective more quickly than teams that are not formed from a metateam (“Carryover Hypothesis”)
-H4: The carryover effect of dynamic teaming is moderated by the degree to which metateams and subteams are supported in their use of dynamic teaming and their autonomy
-H5: Something about the metateam-subteam effects; we assume that social needs are met in the metateam, whereas task cohesion is met in the teams
+- H1: Psychological safety, social/task cohesion, team goal commitment, social identification, and (low) relational conflict contribute to positive team outcomes
+- H2: The longer a team works together, the higher their psychological safety, social/task cohesion, team goal commitment, and social identification, and the lower their relational conflict
+- H3: Subteams formed from a meta team (i.e. dynamic teaming) are effective more quickly than teams that are not formed from a metateam (“Carryover Hypothesis”)
+- H4: The carryover effect of dynamic teaming is moderated by the degree to which metateams and subteams are supported in their use of dynamic teaming and their autonomy
 
 ![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/fb3e62ff-d9df-4497-8e68-dd160615a437)
 
-
-
-# Hypotheses
-
 # Study Design
+
+- A qualitative investigation of the benefits, risks and challenges of dynamic teaming approaches compared to more traditional ones.
+- A qualitative investigation of how organizations support, or can support, dynamic teaming approaches to offset some of the disadvantages compared to long-lived, stable teams
+- A qualitative investigation of how the metateam interacts with subteams
+- A quantitative survey study to track how teams perform based on their longevity and their use of dynamic teaming
+- At Alpha, the questionnaire will be taken at the start and the end of each “mission” (subteam) and intermediate is also possible. So it has a longitudinal component.
 
 # Data Analysis
 
