@@ -38,6 +38,8 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - H3: Subteams formed from a meta team (i.e. dynamic teaming) are effective more quickly than teams that are not formed from a metateam (“Carryover Hypothesis”)
 - H4: The carryover effect of dynamic teaming is moderated by the degree to which metateams and subteams are supported in their use of dynamic teaming and their autonomy
 
+# Research Model
+
 ![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/fb3e62ff-d9df-4497-8e68-dd160615a437)
 
 # Study Design
