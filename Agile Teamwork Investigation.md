@@ -56,7 +56,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 *: While Alpha has presented itself as the first collaborator in this study, additional companies may join.
 
-## Sample Aims
+## Sample
 
 - Qualitiative study:
   - Interview 2 managers at Alpha* that can evaluate the support structures at Alpha* to support team formation and development
