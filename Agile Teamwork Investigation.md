@@ -43,7 +43,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 ## Research Model
 
-![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/fb3e62ff-d9df-4497-8e68-dd160615a437)
+![Model](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/1b3b4fdb-b23e-45de-9100-927e0c17a16e)
 
 ## Study Design
 
