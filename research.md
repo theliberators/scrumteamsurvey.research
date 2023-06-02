@@ -1,8 +1,10 @@
+# Investigation the quality of Agile teamwork and how it shaped by team characteristics and support structures
+
 This research protocol outlines how we plan to perform our investigation of Agile teamwork and the influence of team longevity and stability on team functioning. We publish this protocol openly and publicly for the sake of transparency. And feedback is welcome at [info@theliberators.com](mailto:info@theliberators.com).
 
 This study is performed by [Christiaan Verwijs](https://www.linkedin.com/in/christiaanverwijs/), [Daniel Russo](https://www.linkedin.com/in/danielrusso1/), and [Ornela Vasiliauskaite](https://www.linkedin.com/in/ornela-vasiliauskaite-670a023/). We plan to submit our findings to peer review and publish them in a recognized scientific journal in Software Engineering.
 
-# Context
+## Context
 
 Alpha (a pseudonym) develops and supports an online marketplace with a global reach. Most teams at Alpha work according to the principles of Agile (software) development and with a strong focus on teamwork, learning, and quality. The company is home to roughly 150 teams and over 1.500 employees. Teamwork is essential to Alpha, as well as many other modern organizations.
 
@@ -10,7 +12,7 @@ Teamwork is believed to benefit from stability and longevity. This reflects a br
 
 So some companies have begun to experiment with more dynamic and fluid approaches to teamwork. Alpha recently designed its own approach to fluid team formation. In this model, teams (“mission teams”) are dynamically formed to achieve a specific short-term goal (“mission”) as the need arises. Mission teams are formed from a larger meta team (“Subdomain”). With this model, Alpha hopes to quickly launch temporary/virtual (Mission) teams, foster a healthy environment and allow team members to satisfy their social needs similarly to longer-lived teams.
 
-# Related Work
+## Related Work
 
 Traditionally, teams are defined as “a permanent and formal group of at least two interdependent individuals who are collectively responsible for the accomplishment of one or several tasks set by the organization (Gladstein, 1984; Sundstrom, De Meuse, & Futrell, 1990)”. Mortensen & Haas (2018) note that teams are rarely that permanent and with such clear boundaries in practice. Teams often have temporary members who bring specialized skills that aren’t needed continuously or are scarce (citation needed) or are even formed dynamically from what Mortensen & Haas (2018) call a “meta team” as the need arises. 
 
@@ -26,7 +28,7 @@ An assumption of dynamic teaming is that the social and cognitive benefits of st
 
 Mortensen & Haas (2018) outline some of the challenges associated with research of fluid team designs. Members can be a member of one or more subteams, in addition to their metateam, which means that any measures need to take this into account. They also call for more time-varying measures and techniques like dyadic relationship analysis. 
 
-# Research Questions
+## Research Questions
 
 - RQ1: How do short-lived teams compare to more long-lived teams in terms of their effectiveness? How does their effectiveness change over time?
 - RQ2: What kind of support systems are needed in environments that use dynamic teaming approaches to maintain team effectiveness?
@@ -37,12 +39,13 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - H2: The longer a team works together, the higher their psychological safety, social/task cohesion, team goal commitment, and social identification, and the lower their relational conflict
 - H3: Subteams formed from a meta team (i.e. dynamic teaming) are effective more quickly than teams that are not formed from a metateam (“Carryover Hypothesis”)
 - H4: The carryover effect of dynamic teaming is moderated by the degree to which metateams and subteams are supported in their use of dynamic teaming and their autonomy
+- H5: The effects of context variables, process variables and team outcomes is no different between stable and fluid teams
 
-# Research Model
+## Research Model
 
 ![image](https://github.com/theliberators/scrumteamsurvey.research/assets/39433533/fb3e62ff-d9df-4497-8e68-dd160615a437)
 
-# Study Design
+## Study Design
 
 - Qualitiative study:
   - Structured interviews of informants from Alpha* on the benefits, risks and challenges of dynamic teaming approaches compared to more traditional ones.
@@ -53,16 +56,29 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 *: While Alpha has presented itself as the first collaborator in this study, additional companies may join.
 
-# Data Analysis
+## Data Analysis
 
 - Qualitiative study:
-  - To be determined
+  - Gioia approach to develop a grounded theory
+  - Interviews will be transcribe
+  - Reseach teram will generate inductive categories based on meaningful units in the interview data
+  - Research team will compare and refine categories (while journaling)
+  - Create codebook
+  - Research team applies codebook to interview data and analyzes patterns and relationships
+  - Reporting of results
+  - H1-5 will be answered from the interview data (if possible)
 - Quantitative study:
-  - Structural Equation Modelling to test if the model fits the data
-  - Moderator analyses in SEM to test for 
-  - Multigroup comparison to identify significant differences between groups (
+  - Dataset will be cleaned from careless responses and very extreme outliers if they exist
+  - Research team will use Structural Equation Modelling to determine model fit between the theoretical model and the data
+  - Fit indices to be used: CFI, RMSEA, SRMR, GFI
+  - Assumptions to be verified; normality of distributions, homoscedasticity, linearity and multicollinearity
+  - H1 will be answered by testing the significant of paths of the variables to team outcomes
+  - H2 will be answered by performing a longitudinal analysis in SEM (time factor) to see if team outcomes improve over time
+  - H3 will be answered by investigating direct and indirect effects in SEM
+  - H4 will be answered by investigating direct and indirect effects in SEM
+  - H5 will be answered with a multigroup analysis in SEM
 
-# Ethical Considerations
+## Ethical Considerations
 
 - The interviews will be performed by a researcher that is not affiliated with Alpha*. The identities of informants will only be known to the researcher. In any further analyses or publications, informants will simply be referenced by their role and a number (e.g. PM1, DEV2, SM5).
 - Data collection for the surveys 
