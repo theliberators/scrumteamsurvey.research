@@ -59,9 +59,13 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 ## Sample Aims
 
 - Qualitiative study:
-  - Interview 
+  - Interview 2 managers at Alpha* that can evaluate the support structures at Alpha* to support team formation and development
+  - Interview representatives from 10 subteams at Alpha* that have at least 6 months experience with fluid team designs
+  - Interview 2 (Agile) coaches at Alpha* who are responsible for the fluid team design structure
 - Quantitative study: 
-  - An a priori power test in GPower shows that a sample size of 
+  - An a priori power test in GPower shows that a sample size of approx. 180 teams should be enough to identify signficant effects. This will include teams from Alpha* and others.
+  - The aim is to reach a sample of 1.000 teams with 3 or more participants per team
+  - Data collection will be performed through the Scrum Team Survey diagnostic.
 
 ## Data Analysis
 
@@ -92,6 +96,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 ## Ethical Considerations
 
 - The interviews at Alpha* will be performed exclusively by members of the Research Team who are not affiliated with Alpha*. The identifies of the participants will only be known to the Research Team. In the transcribing and reporting of interview data, only anonymous pseudonyms will be used to protect the identify of informants (e.g. SM1, DEV2).
+- Questionnaire data will be anonymized and aggregated to the team-level. Participants will be made aware that their (anonymized and aggregated) responses may be used for scientific research.
 
 # Potential biases & confounders
 
@@ -99,6 +104,10 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 # Timeline
 
-- Tool: Scrum Team Survey
-- Interview timeline
-- Protocol
+- Quantitative Study:
+  - Data collection at Alpha* starts on July 1, 2023. It will run until December 30, 2023. At this point, a determination will be made if sufficient data has been collected.
+  - Kickoff Workshop to instruct and train teams at Alpha* on how to participate in [July, 2023]
+  - Teams at Alpha* will take the "Baseline" measure (all factors) at the start of each new subteam. Every iteration, or at least [every month], they will take the "Intermittent" measure (only process factors and team outcomes)
+- Quantitative Study: 
+  - Interviews at Alpha* will be scheduled and performed in Q4 of 2023.
+
