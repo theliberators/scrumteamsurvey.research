@@ -99,13 +99,13 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - The interviews at Alpha* will be performed exclusively by members of the Research Team who are not affiliated with Alpha*. The identifies of the participants will only be known to the Research Team. In the transcribing and reporting of interview data, only anonymous pseudonyms will be used to protect the identify of informants (e.g. SM1, DEV2).
 - Questionnaire data will be anonymized and aggregated to the team-level. Participants will be made aware that their (anonymized and aggregated) responses may be used for scientific research.
 
-# Potential biases & confounders
+## Potential biases & confounders
 
 - Only teams that are doing well participate. We can address this by communicating clearly to teams that they won't be judged/penalized on their results. Furthermore, we can use scores on team outcomes to see if there is an even spread (i.e. not only high performing teams)
 - Substantial changes may happen around teams that impact their results, but are not captured by our model. We can address this partially by including a question in the repeated measures to assess if the organization underwent big changes (i.e. reorganization) since the previous measurement. We should remove teams where this happens.
 - Attrition is a big risk in longitudinal surveys. We can address this by providing useful and actionable feedback after each measure, and encouraging teams to return.
 
-# Timeline
+## Timeline
 
 - Quantitative Study:
   - Data collection at Alpha* starts on July 1, 2023. It will run until December 30, 2023. At this point, a determination will be made if sufficient data has been collected.
