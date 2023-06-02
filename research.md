@@ -56,6 +56,13 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 *: While Alpha has presented itself as the first collaborator in this study, additional companies may join.
 
+## Sample Aims
+
+- Qualitiative study:
+  - Interview 
+- Quantitative study: 
+  - An a priori power test in GPower shows that a sample size of 
+
 ## Data Analysis
 
 - Qualitiative study:
@@ -69,6 +76,10 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
   - H1-5 will be answered from the interview data (if possible)
 - Quantitative study:
   - Dataset will be cleaned from careless responses and very extreme outliers if they exist
+  - CFA will be performed to assess proper factorial structure
+  - Cronbach's Alpha will be calculated for each scale to assess proper reliability
+  - HTMT analysis will be performed to assess discriminant validity
+  - Common Method Bias tests will be performed to identify and isolate bias due to common method
   - Research team will use Structural Equation Modelling to determine model fit between the theoretical model and the data
   - Fit indices to be used: CFI, RMSEA, SRMR, GFI
   - Assumptions to be verified; normality of distributions, homoscedasticity, linearity and multicollinearity
@@ -80,8 +91,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 ## Ethical Considerations
 
-- The interviews will be performed by a researcher that is not affiliated with Alpha*. The identities of informants will only be known to the researcher. In any further analyses or publications, informants will simply be referenced by their role and a number (e.g. PM1, DEV2, SM5).
-- Data collection for the surveys 
+- The interviews at Alpha* will be performed exclusively by members of the Research Team who are not affiliated with Alpha*. The identifies of the participants will only be known to the Research Team. In the transcribing and reporting of interview data, only anonymous pseudonyms will be used to protect the identify of informants (e.g. SM1, DEV2).
 
 # Potential biases & confounders
 
