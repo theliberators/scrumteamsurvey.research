@@ -33,7 +33,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 - RQ1: How do short-lived teams compare to more long-lived teams in terms of their effectiveness? How does their effectiveness change over time?
 - RQ2: What kind of support systems are needed in environments that use dynamic teaming approaches to maintain team effectiveness?
 
-# Hypotheses
+## Hypotheses
 
 - H1: Psychological safety, social/task cohesion, team goal commitment, social identification, and (low) relational conflict contribute to positive team outcomes
 - H2: The longer a team works together, the higher their psychological safety, social/task cohesion, team goal commitment, and social identification, and the lower their relational conflict
