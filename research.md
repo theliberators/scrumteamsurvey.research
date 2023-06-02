@@ -63,8 +63,9 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
   - Interview representatives from 10 subteams at Alpha* that have at least 6 months experience with fluid team designs
   - Interview 2 (Agile) coaches at Alpha* who are responsible for the fluid team design structure
 - Quantitative study: 
-  - An a priori power test in GPower shows that a sample size of approx. 180 teams should be enough to identify signficant effects. This will include teams from Alpha* and others.
-  - The aim is to reach a sample of 1.000 teams with 3 or more participants per team
+  - An a priori power test in GPower shows that a sample size of approx. 320 measurements should be enough to identify signficant effects.
+  - We will be collecting repeated measures at Alpha* from [XXXX] teams
+  - We will also be collecting repeated measures from other teams at other organizations, although this may be less systematic than at Alpha*.
   - Data collection will be performed through the Scrum Team Survey diagnostic.
 
 ## Data Analysis
@@ -100,7 +101,9 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 
 # Potential biases & confounders
 
-- 
+- Only teams that are doing well participate. We can address this by communicating clearly to teams that they won't be judged/penalized on their results. Furthermore, we can use scores on team outcomes to see if there is an even spread (i.e. not only high performing teams)
+- Substantial changes may happen around teams that impact their results, but are not captured by our model. We can address this partially by including a question in the repeated measures to assess if the organization underwent big changes (i.e. reorganization) since the previous measurement. We should remove teams where this happens.
+- Attrition is a big risk in longitudinal surveys. We can address this by providing useful and actionable feedback after each measure, and encouraging teams to return.
 
 # Timeline
 
