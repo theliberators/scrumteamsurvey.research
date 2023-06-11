@@ -1,6 +1,6 @@
-# Investigation the quality of Agile teamwork and how it shaped by team characteristics and support structures
+# Investigation the quality of teamwork and how it shaped by team characteristics and support structures
 
-This research protocol outlines how we plan to perform our investigation of Agile teamwork and the influence of team longevity and stability on team functioning. We publish this protocol openly and publicly for the sake of transparency. And feedback is welcome at [info@theliberators.com](mailto:info@theliberators.com).
+This research protocol outlines how we plan to perform our investigation of teamwork and the influence of team longevity and stability on team functioning. We publish this protocol openly and publicly for the sake of transparency. And feedback is welcome at [info@theliberators.com](mailto:info@theliberators.com).
 
 This study is performed by [Christiaan Verwijs](https://www.linkedin.com/in/christiaanverwijs/), [Daniel Russo](https://www.linkedin.com/in/danielrusso1/), and [Ornela Vasiliauskaite](https://www.linkedin.com/in/ornela-vasiliauskaite-670a023/). We plan to submit our findings to peer review and publish them in a recognized scientific journal in Software Engineering.
 
