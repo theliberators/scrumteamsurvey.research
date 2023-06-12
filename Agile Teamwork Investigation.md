@@ -102,7 +102,7 @@ Mortensen & Haas (2018) outline some of the challenges associated with research 
 ## Potential biases & confounders
 
 - Only teams that are doing well participate. We can address this by communicating clearly to teams that they won't be judged/penalized on their results. Furthermore, we can use scores on team outcomes to see if there is an even spread (i.e. not only high performing teams)
-- Substantial changes may happen around teams that impact their results, but are not captured by our model. We can address this partially by including a question in the repeated measures to assess if the organization underwent big changes (i.e. reorganization) since the previous measurement. We should remove teams where this happens.
+- Substantial changes may happen around teams that impact their results, but are not captured by our model. We can address this partially by including a question in the repeated measures to assess if the organization underwent big changes (i.e. reorganization) since the previous measurement. We should remove teams where this happens. The questionnaire includes an item called "CHANGE1" where we ask participants what substantial changes happened since they last took the questionnaire.
 - Attrition is a big risk in longitudinal surveys. We can address this by providing useful and actionable feedback after each measure, and encouraging teams to return.
 
 ## Timeline
